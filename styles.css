@@ -135,6 +135,10 @@
    display: none;
  }
 
+ body {
+   background-color:rgb(37, 36, 36);
+   color:silver;
+ }
  article {
      margin-top: 100px;
      margin-bottom: 100px;
@@ -149,15 +153,29 @@
  
  .titles {
     text-align:center;
+    background-image:url("images/stars.jpeg");
+ }
+
+ .center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
  }
 
  #top_header {
+   border-style:outset;
    text-align:center;
    font-family:"Trebuchet MS", Helvetica, sans-serif;
  }
  
  img {
-  vertical-align:center;
+  border-style:outset;
+  border-color:silver;
+ }
+
+ footer {
+   text-align:right;
  }
 
  
