@@ -151,5 +151,14 @@
     text-align:center;
  }
 
+ #top_header {
+   text-align:center;
+   font-family:"Trebuchet MS", Helvetica, sans-serif;
+ }
+ 
+ img {
+  vertical-align:center;
+ }
+
  
  
